@@ -7,7 +7,7 @@ This repository aims to help researchers quickly identify suitable datasets for 
 
 ## Phishing Attack Datasets
 
-| Dataset | AI Task | Size | Research Article | Journal Impact Factor | Download | License |
+| Dataset | AI Task | Size | Research Article | Impact Factor | Download | License |
 |---|---|---:|---|---:|---|---|
 | PhishTank | — | — | — | — | [PhishTank ↗](https://www.phishtank.org/developer_info.php) | — |
 | StealthPhisher | Binary Classification | 336,749 | [Link to Article ↗](https://doi.org/10.1016/j.eswa.2025.130205) | 9.4 | [Dataset ↗](https://data.mendeley.com/datasets/m2479kmybx) | <a href="https://scholar.google.com/scholar?q=StealthPhisher%3A+A+Defensive+Framework+against+Phishing+Attack+using+Hybrid+Deep+Learning+and+GenAI"><img src="https://cdn.simpleicons.org/googlescholar" width="20" alt="Google Scholar"> ↗</a> |
@@ -21,7 +21,7 @@ This repository aims to help researchers quickly identify suitable datasets for 
 
 ## Malware Datasets
 
-| Dataset | AI Task | Size | Research Article | Journal Impact Factor | Download | License |
+| Dataset | AI Task | Size | Research Article | Impact Factor | Download | License |
 |---|---|---:|---|---:|---|---|
 | MalwareBazaar |  —  | * | — | N/A | [MalwareBazaar ↗](https://bazaar.abuse.ch/browse/) | — |
 | AndroZoo |  —  | * | [Link to Article ↗](https://doi.org/10.1145/2901739.2903508) | N/A | [AndroZoo ↗](https://androzoo.uni.lu/) | <a href="https://scholar.google.com/scholar?q=AndroZoo%3A+Collecting+Millions+of+Android+Apps+for+the+Research+Community"><img src="https://cdn.simpleicons.org/googlescholar" width="20" alt="Google Scholar"> ↗</a> |
