@@ -1,6 +1,6 @@
 ## Phishing Attack Datasets
 
-| Dataset | AI Task | Size | Research Article | Journal Impact Factor | Download | License |
+| Dataset | AI Task | Size | Research Article | Impact Factor | Download | License |
 |---|---|---:|---|---:|---|---|
 | PhishTank | — | — | — | — | [Dataset](https://www.phishtank.org/developer_info.php) | — |
 | StealthPhisher | Binary Classification | 336,749 records | [Link to Article](https://doi.org/10.1016/j.eswa.2025.130205) | 9.4 | [Dataset](https://data.mendeley.com/datasets/m2479kmybx) | [Cite Article](https://scholar.google.com/scholar?q=StealthPhisher%3A+A+Defensive+Framework+against+Phishing+Attack+using+Hybrid+Deep+Learning+and+GenAI) |
