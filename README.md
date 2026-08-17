@@ -11,3 +11,17 @@
 | PhishOFE | Binary Classification | 101,063 | [Link to Article ↗](https://doi.org/10.1109/ACCESS.2025.3614126) | 4.2 | [Dataset ↗](https://github.com/arikustiawan/PhishOFE/tree/main/dataset) | <a href="https://scholar.google.com/scholar?q=PhishOFE%3A+A+Novel+Machine+Learning+Framework+for+Real-Time+Phishing+URL+Detection+With+Optimized+Feature+Engineering"><img src="https://cdn.simpleicons.org/googlescholar" width="20" alt="Google Scholar"> ↗</a> |
 
 > *PhishTank is a continuously updated database, so its number of active phishing records changes over time.*
+
+## Malware Datasets
+
+| Dataset | AI Task | Size | Research Article | Journal Impact Factor | Download | License |
+|---|---|---:|---|---:|---|---|
+| MalwareBazaar | Malware Classification / Family Analysis | 1,103,626 samples* | — | N/A | [Dataset ↗](https://bazaar.abuse.ch/browse/) | — |
+| AndroZoo | Binary Classification | 27,611,830 APKs* | [Link to Article ↗](https://doi.org/10.1145/2901739.2903508) | N/A | [Dataset ↗](https://androzoo.uni.lu/) | <a href="https://scholar.google.com/scholar?q=AndroZoo%3A+Collecting+Millions+of+Android+Apps+for+the+Research+Community"><img src="https://cdn.simpleicons.org/googlescholar" width="20" alt="Google Scholar"> ↗</a> |
+| Droidware | Binary Classification | 265,423 records | [Link to Article ↗](https://doi.org/10.1016/j.engappai.2026.115638) | 9.0 | [Dataset ↗](https://data.mendeley.com/datasets/x7sb4g2kkv/2) | <a href="https://scholar.google.com/scholar?q=Droidware%3A+A+security+hardened+federated+framework+for+robust+android+malware+detection"><img src="https://cdn.simpleicons.org/googlescholar" width="20" alt="Google Scholar"> ↗</a> |
+| CICMalDroid 2020 | Multi-class Classification | 17,341 APKs / 11,598 feature records | [Link to Article ↗](https://doi.org/10.1109/DASC-PICom-CBDCom-CyberSciTech49142.2020.00094) | N/A | [Dataset ↗](https://www.unb.ca/cic/datasets/maldroid-2020.html) | <a href="https://scholar.google.com/scholar?q=Dynamic+Android+Malware+Category+Classification+using+Semi-Supervised+Deep+Learning"><img src="https://cdn.simpleicons.org/googlescholar" width="20" alt="Google Scholar"> ↗</a> |
+| AndroMD | Binary Classification | 600,298 records | [Link to Article ↗](https://doi.org/10.1016/j.rineng.2025.107050) | 9.4 | [Dataset ↗](https://data.mendeley.com/datasets/pwyj5b3khp/1) | <a href="https://scholar.google.com/scholar?q=AndroMD%3A+An+Android+malware+detection+framework+based+on+source+code+analysis+and+permission+scanning"><img src="https://cdn.simpleicons.org/googlescholar" width="20" alt="Google Scholar"> ↗</a> |
+| Android Malware Analysis | Binary / Multi-class Classification | Not stated (3 bundled datasets) | — | N/A | [Dataset ↗](https://data.mendeley.com/datasets/bpkksc9v5s/7) | — |
+| PermGuard | Binary Classification | 111,822 records | [Link to Article ↗](https://doi.org/10.1109/ACCESS.2024.3523629) | 4.2 | [Source ↗](https://androzoo.uni.lu/) | <a href="https://scholar.google.com/scholar?q=PermGuard%3A+A+Scalable+Framework+for+Android+Malware+Detection+Using+Permission-to-Exploitation+Mapping"><img src="https://cdn.simpleicons.org/googlescholar" width="20" alt="Google Scholar"> ↗</a> |
+
+> *MalwareBazaar and AndroZoo are continuously growing repositories, so their sample counts change over time.*
