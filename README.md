@@ -1,3 +1,10 @@
+AI Cybersecurity Dataset Hub
+Curated Datasets for AI Research, Experimental Validation, Benchmarking, and Comparative Analysis
+
+A curated and regularly updated collection of cybersecurity datasets designed to support AI- and machine learning–based security research, experimental evaluation, model validation, benchmarking, and comparative studies.
+
+This repository aims to help researchers quickly identify suitable datasets for developing and evaluating intelligent cybersecurity frameworks
+
 ## Phishing Attack Datasets
 
 | Dataset | AI Task | Size | Research Article | Journal Impact Factor | Download | License |
