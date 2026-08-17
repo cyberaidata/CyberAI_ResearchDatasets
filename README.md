@@ -1,9 +1,13 @@
 ## Phishing Attack Datasets
 
-| Dataset | AI Task | Size | Research Article | Impact Factor | Download | License |
+| Dataset | AI Task | Size | Research Article | Journal Impact Factor | Download | License |
 |---|---|---:|---|---:|---|---|
-| PhishTank | — | * | — | — | [Dataset ↗](https://www.phishtank.org/developer_info.php) | — |
+| PhishTank | — | — | — | — | [Dataset ↗](https://www.phishtank.org/developer_info.php) | — |
 | StealthPhisher | Binary Classification | 336,749 records | [Link to Article ↗](https://doi.org/10.1016/j.eswa.2025.130205) | 9.4 | [Dataset ↗](https://data.mendeley.com/datasets/m2479kmybx) | <a href="https://scholar.google.com/scholar?q=StealthPhisher%3A+A+Defensive+Framework+against+Phishing+Attack+using+Hybrid+Deep+Learning+and+GenAI"><img src="https://cdn.simpleicons.org/googlescholar" width="20" alt="Google Scholar"> ↗</a> |
 | PhiUSIIL | Binary Classification | 235,795 records | [Link to Article ↗](https://doi.org/10.1016/j.cose.2023.103545) | 6.8 | [Dataset ↗](https://archive.ics.uci.edu/dataset/967/phiusiil+phishing+url+dataset) | <a href="https://scholar.google.com/scholar?q=PhiUSIIL%3A+A+diverse+security+profile+empowered+phishing+URL+detection+framework+based+on+similarity+index+and+incremental+learning"><img src="https://cdn.simpleicons.org/googlescholar" width="20" alt="Google Scholar"> ↗</a> |
+| LegitPhish | Binary Classification | 101,219 records | [Link to Article ↗](https://doi.org/10.1016/j.dib.2025.111972) | 1.9 | [Dataset ↗](https://data.mendeley.com/datasets/hx4m73v2sf/2) | <a href="https://scholar.google.com/scholar?q=LegitPhish%3A+A+large-scale+annotated+dataset+for+URL-based+phishing+detection"><img src="https://cdn.simpleicons.org/googlescholar" width="20" alt="Google Scholar"> ↗</a> |
+| Zieni Dataset | Binary Classification | 10,000 records | [Link to Article ↗](https://doi.org/10.1002/qre.3411) | 2.8 | [Dataset ↗](https://data.mendeley.com/datasets/8mcz8jsgnb/1) | <a href="https://scholar.google.com/scholar?q=Explainable+machine+learning+for+phishing+feature+detection"><img src="https://cdn.simpleicons.org/googlescholar" width="20" alt="Google Scholar"> ↗</a> |
+| FedPhishLLM | Binary Classification | 10,395 raw / 7,074 used | [Link to Article ↗](https://doi.org/10.1007/s44443-025-00267-0) | 6.4 | [Dataset Used ↗](https://zenodo.org/records/8041387) | <a href="https://scholar.google.com/scholar?q=FedPhishLLM%3A+A+privacy-preserving+and+explainable+phishing+detection+mechanism+using+federated+learning+and+LLMs"><img src="https://cdn.simpleicons.org/googlescholar" width="20" alt="Google Scholar"> ↗</a> |
+| PhishOFE | Binary Classification | 101,063 records | [Link to Article ↗](https://doi.org/10.1109/ACCESS.2025.3614126) | 4.2 | [Dataset ↗](https://github.com/arikustiawan/PhishOFE/tree/main/dataset) | <a href="https://scholar.google.com/scholar?q=PhishOFE%3A+A+Novel+Machine+Learning+Framework+for+Real-Time+Phishing+URL+Detection+With+Optimized+Feature+Engineering"><img src="https://cdn.simpleicons.org/googlescholar" width="20" alt="Google Scholar"> ↗</a> |
 
 > *PhishTank is a continuously updated database, so its number of active phishing records changes over time.*
